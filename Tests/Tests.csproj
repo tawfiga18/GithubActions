@@ -4,6 +4,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+		<RollForward>Major</RollForward>
 
         <IsPackable>false</IsPackable>
         <IsTestProject>true</IsTestProject>
